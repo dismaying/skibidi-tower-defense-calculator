@@ -27,15 +27,10 @@ A closed-source calculator designed to help players of Skibidi Tower Defense eva
 3. **Assign Traits**: Assign a trait to each unit from the list of available traits.
 4. **Evaluate Trade**: The AI will assess the trade and suggest whether it is favorable or not.
 
-## Example
+## Image(s)
 
-### Your Units
-- Unit 1: Speed (3)
-- Unit 2: Strength (2)
-
-### Their Units
-- Unit 1: Critical (1)
-- Unit 2: Untouchable
+![image](https://github.com/user-attachments/assets/fe213f20-aac7-4ccf-a00e-4ed016743c82)
+![image](https://github.com/user-attachments/assets/f01369d5-3052-465b-b1a8-4dc77aa9ee3a)
 
 ### Trade Evaluation
 - The AI evaluates the trade and determines if the trade is beneficial based on the selected units and traits.
